@@ -6,8 +6,6 @@ Projeto completo de um sistema de gestão admin.
 - Login
 - Logout
 - Cadastro de usuarios
-- Permissões de usuarios
-- Edição de usuarios
 - Extração de relatorios
 - Calculo de distancia de um endereço a outro e tempo que ira gastar e valor
     - Impressão em PDF das informações.
@@ -15,5 +13,5 @@ Projeto completo de um sistema de gestão admin.
 - Controle financeiro pessoa: entradas,saidas,resumo mes,dia e ano.
     - controle de objetivos
     - controle de dividas pendentes
-- Principais noticias do dia no brasil
+- Principais noticias do dia no Brasil
 - Tarefas para fazer
