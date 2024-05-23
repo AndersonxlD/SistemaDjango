@@ -3,10 +3,8 @@
 Projeto completo de um sistema de gestão admin.
 
 ## 🎯 algumas funcionalidades:
-- Login
-- Logout
+- Login / Logout
 - Cadastro de usuarios
-- Extração de relatorios
 - Calculo de distancia de um endereço a outro e tempo que ira gastar e valor
     - Impressão em PDF das informações.
 - Rastreio de ações e resumo das principais ações do dia.
